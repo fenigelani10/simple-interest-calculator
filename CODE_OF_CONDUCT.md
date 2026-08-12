@@ -25,3 +25,5 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 ## Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
